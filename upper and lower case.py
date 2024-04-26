@@ -1,0 +1,5 @@
+x=str("Shree")
+print(len(x))
+print(x.upper())
+print(x.lower())
+print(x)
